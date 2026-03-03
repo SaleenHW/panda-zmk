@@ -12,3 +12,7 @@ include:
     artifact-name: eyelash_sofle_studio_left
   - board: eyelash_sofle_left
     shield: settings_reset
+  - board: nrfmicro/nrf52840/zmk@1.1
+    shield: sofle_left
+  - board: nrfmicro/nrf52840/zmk@1.1
+    shield: sofle_right
